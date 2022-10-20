@@ -12,6 +12,4 @@ public class Persona {
 	public String toString() {
 		return String.format("%s %s", this.nombre, this.apellido);
 	}
-
-	
 }
